@@ -1,7 +1,7 @@
 
 📈 My GitHub Stats
 
-<p align="left"> <img src="https://github-readme-stats.vercel.app/api?username=madanitea&show_icons=true&theme=default" alt="madanitea" />
+<p align="left"> <img src="https://github-readme-stats.vercel.app/api?username=madanitea&show_icons=true&theme=vue-dark" alt="madanitea" />
   
 ### Hey there <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="25px">
 <a href="https://discord.gg/XTW52Kt">
