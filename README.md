@@ -18,4 +18,4 @@ I am speaking in Bahasa. But i think, i also good at english (a little) :D
 You can reach me on <a target="_blank" href="https://instagram.com/madanitea">Instagram</a>, <a href="https://www.youtube.com/channel/UCdm5Ls3RNlYTiScwqhANQVg">Youtube</a>, and <a href="https://linkedin.com/muhammadfarhanmadani">Linkedin</a>. Don't be shy to say hello, i will respond you as soon as possible.
 
 Last but not least, i need to tell you, that i'm an Automotive Enthusiast.
-<h3>Thank you for reading this.</h3>
+<h3>Thank's for reading this.</h3>
