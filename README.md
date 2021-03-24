@@ -21,7 +21,7 @@ Hi, I'm [Abhishek Naidu](https://blog.abhisheknaidu.tech/), a passionate self-ta
 I am also an open-source enthusiast and maintainer. I learned a lot from the open-source community and I love how collaboration and knowledge sharing happened through open-source.
 
 
-  <img align="right" alt="GIF" src="https://github.com/abhisheknaiidu/abhisheknaiidu/blob/master/code.gif?raw=true" width="500" height="320" />
+  <img align="right" alt="GIF" src="https://i.pinimg.com/originals/0a/08/ef/0a08ef387a914cc5f0da2f26ecc768d3.gif" width="500" height="320" />
   
 - 💬 Ask me about anything, I am happy to help;
 - 📫 How to reach me: [@abhisheknaiidu](https://twitter.com/abhisheknaiidu);
