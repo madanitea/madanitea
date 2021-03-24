@@ -17,5 +17,5 @@ Till now, i'm good at :
 I am speaking in Bahasa. But i think, i also good at english (a little) :D
 You can reach me on <a target="_blank" href="https://instagram.com/madanitea">Instagram</a>, <a href="https://www.youtube.com/channel/UCdm5Ls3RNlYTiScwqhANQVg">Youtube</a>, and <a href="https://linkedin.com/muhammadfarhanmadani">Linkedin</a>. Don't be shy to say hello, i will respond you as soon as possible.
 
-Last but not least, i need to tell you, that i'm an Automotive Enthusiast.
-<h3>Thank's for reading this.</h3>
+Last but not least, i need to tell you, i'm an <b>Automotive Enthusiast</b>. I love music too, everyday, every hour i always listen to music, sometimes singing while doing something. In the band my role is a<b> Rythm Guitarist</b>.
+<h3>Sincerely, thank's for reading this.</h3>
