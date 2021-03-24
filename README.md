@@ -12,4 +12,4 @@ Till now, i'm good at these languages (frameworks) :
 </ul>
 
 I am speaking in Bahasa. But i think, i also good at english (a little) :D
-You can reach me on instagram.com/madanitea, youtube.com/, and linkedin.com/muhammadfarhanmadani.
+You can reach me on <a target="_BLANK" href="instagram.com/madanitea">instagram</a>, youtube.com/, and linkedin.com/muhammadfarhanmadani.
